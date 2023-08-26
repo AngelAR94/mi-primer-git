@@ -16,6 +16,12 @@
 4. git remote "link del repo"
 5. git push -u origin main
 
+## Una vez ya subido a Github
+
+1. git add .
+2. git commit - m "mensaje"
+3. git push
+
 ## Resumen
 
 1. git int (iniciamos repo local)
